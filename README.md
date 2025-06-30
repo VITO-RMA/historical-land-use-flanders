@@ -5,9 +5,12 @@ Rasters are intended for use in the Belgian Lambert 72 CRS (EPSG 31370).
 
 The maps have been produced in an OIS project (Omgevingsinformatiesamenwerkingsverband) of the Flemish Departement Omgeving in collaboration with Instituut voor Natuur- en Bosonderzoek, het Agentschap Landbouw en Zeevisserij, de Vlaamse Instelling voor Technologisch Onderzoek en Digitaal Vlaanderen.
 
+---
+
 **LU1774.tif**  
-Land use map based on Ferrariskaart (cabinet map at scale 1:11520). The field surveys date from 1770–1774. Map was published in 1778*.  
-*in Geopunt and the report this map is mentioned as Ferrariskaart 1778.*
+Land use map based on Ferrariskaart (cabinet map at scale 1:11520). The field surveys date from 1770–1774. Map was published in 1778*.
+
+*in Geopunt and the report this map is mentioned as Ferrariskaart 1778.
 
 ---
 
